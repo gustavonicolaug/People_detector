@@ -1,5 +1,5 @@
 # People_detector
-<<<<<<< HEAD
+
 Here`s an Arduino project to detect people who pass or stay in front of an ultrasonic sensor
 
 ## Arduino configuration
