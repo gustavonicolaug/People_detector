@@ -19,3 +19,9 @@ Here`s an Arduino project to detect people who pass or stay in front of an ultra
 	pin 13:	SCK
 	3.3V:	VCC
 	GND:	GND
+
+	GSM/GPRS SIM900 module:
+
+	pin 7:	TXD
+	pin 8:	RXD
+	GND:	GND
